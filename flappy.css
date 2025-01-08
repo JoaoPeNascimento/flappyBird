@@ -7,6 +7,10 @@
     src: url('../fonts/Pixel.ttf');
 }
 
+h1 {
+    font-family: 'Pixel';
+}
+
 [wm-flappy] {
     position: relative;
     border: 5px solid dodgerblue;
